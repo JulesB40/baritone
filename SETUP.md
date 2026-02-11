@@ -50,6 +50,8 @@ If you build from source you will also find mapping files in the `dist` director
 ## Command Line
 On Mac OSX and Linux, use `./gradlew` instead of `gradlew`.
 
+On Windows, you can also use `build-fabric-1.21.11.bat` from the repository root to run a Fabric build shortcut for modern 1.21.x (including 1.21.11).
+
 The recommended Java versions by Minecraft version are
 | Minecraft version             | Java version  |
 |-------------------------------|---------------|
